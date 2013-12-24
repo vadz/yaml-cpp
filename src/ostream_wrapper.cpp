@@ -1,4 +1,5 @@
 #include "yaml-cpp/ostream_wrapper.h"
+#include <algorithm>
 #include <cstring>
 #include <iostream>
 
